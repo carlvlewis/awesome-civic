@@ -20,6 +20,8 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 ## Data
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Enigma Public Data](https://enigma.io)
+- [dataviz.tools](http://dataviz.tools)
 
 ## Tools
 
@@ -47,6 +49,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [Google Maps](https://developers.google.com/maps/) – The de facto Javascript mapping library.
 - [LeafletJS](http://leafletjs.com/) – An alternative, open-source Javascript mapping library.
 - [Mapbox](https://www.mapbox.com/) – A themed, cloud-hosted LeafletJS implementation.
+- [Leaflet Maps with Google Sheets](https://www.datavizforall.org/leaflet/with-google-sheets/) - Build a powerful Leaflet map with mutliple layers in minutes by merely entering data into a Google Sheet.
 
 **Tools**
 
@@ -57,6 +60,9 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Applications
 
+- [Usahidi](https://www.ushahidi.com/) - Open-source toolkit for crisis response or crowdsourced reporting, surveys and analysis. 
+- [BrigadeHub](https://brigadehub.github.io) - Focus on building your civic community, not on your website.
+
 ## Resources
 
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
@@ -65,6 +71,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [Sporkability](https://github.com/open-austin/sporkability) - Best practices for making projects easy to fork.
 - [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy's open data assessment and playbook.
 - [Open Procure](http://openprocure.us/) - Open source list of Public Agencies Procurement Thresholds.
+- [Civic Patterns](http://civicpatterns.org/) -  A collection of patterns and tools that help Civic Technology projects succeed.
 
 ## Design
 
@@ -74,12 +81,17 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Who to follow
 
-Civic hackers doing interesting things on GitHub.
+- [Derek Eder](https://github.com/derekeder)
+- [Tim Wisniewski](https://github.com/timwis)
 
 ## Icons
 
 - [Maki](https://www.mapbox.com/maki/) - Icons for maps. CC0 public domain license. SVG and common PNG sizes.
 - [The Noun Project](https://thenounproject.com/) - Find basically any icon. [Some icons are public domain, others are free but require attribution (or a $1.99 fee)](https://thenounproject.zendesk.com/hc/en-us/articles/200509798-What-licenses-do-you-use-). SVG and PNG. 
+
+## Reports, readings, notable research
+- [New Century Cities Report: Five Lessons for Tech-Powered Civic Engagement](http://nextcenturycities.org/wp-content/uploads/5-Lessons-for-Tech-Powered-Civic-Engagement.pdf)
+
 
 # More awesome
 
